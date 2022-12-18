@@ -1,1 +1,2 @@
-input = gets.chomp.split("")
+n = gets.chomp.split('').map(&:to_i)
+puts n.sum
