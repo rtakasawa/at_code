@@ -1,16 +1,15 @@
 n = gets.chomp.to_i
 # a_listの数字を降順に並び替え
-a_list = gets.chomp.split(" ").map(&:to_i).sort.reverse
+a_list = gets.chomp.split(" ").map(&:to_i).sort
 
-alice = 0
-bob = 0
+alice = []
+bob = []
 
-for i in 0..n-1 do
-  if i%2 == 0
-    alice += a_list[i]
-  else
-    bob += a_list[i]
-  end
+loop do
+  break if a_list.empty?
+  alice.push(a_list.pop)
+  break if a_list.empty?
+  bob.push(a_list.pop)
 end
 
-puts alice - bob
+puts alice.sum - bob.sum
