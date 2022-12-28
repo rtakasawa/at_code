@@ -1,3 +1,8 @@
+def fetch_top_string(array)
+  return array.shift if array.dig(0)
+  nil
+end
+
 a = gets.chomp.split("")
 b = gets.chomp.split("")
 c = gets.chomp.split("")
@@ -8,23 +13,14 @@ result = nil
 loop do
   case top_string
   when 'a'
-    if a.dig(0)
-      top_string = a.shift
-    else
-      break result = 'A'
-    end
+    top_string = fetch_top_string(a)
+    break result = 'A' if top_string.nil?
   when 'b'
-    if b.dig(0)
-      top_string = b.shift
-    else
-      break result = 'B'
-    end
+    top_string = fetch_top_string(b)
+    break result = 'B' if top_string.nil?
   when 'c'
-    if c.dig(0)
-      top_string = c.shift
-    else
-      break result = 'C'
-    end
+    top_string = fetch_top_string(c)
+    break result = 'C' if top_string.nil?
   end
 end
 
