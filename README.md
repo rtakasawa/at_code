@@ -1,31 +1,28 @@
-## 参照先
-https://qiita.com/drken/items/fd4e5e3630d0f5859067
-
 ## ruby初期設定
-- https://qiita.com/Moo_Moo_Farm/items/909f1152b78c4da926dd
-- https://qiita.com/Adaachill/items/3d4ddad56c5c2cc372cd
-- http://tatamo.81.la/blog/2018/12/07/atcoder-cli-installation-guide/
-- http://tatamo.81.la/blog/2018/12/07/atcoder-cli-tutorial/
+https://github.com/rtakasawa/at_code/blob/master/set_up_ruby.md
 
-### コマンド
-#### コンテスト用のディレクトリを作る
-`acc new "contestID"`
+## 問題
+### [AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067)
+- [ ] ABC 086 A - Product
+- [ ] ABC 081 A - Placing Marbles
+- [ ] ABC 081 B - Shift Only
+- [ ] ABC 087 B - Coins
+- [ ] ABC 083 B - Some Sums
+- [ ] ABC 088 B - Card Game for Two
+- [ ] ABC 085 B - Kagami Mochi
+- [ ] ABC 085 C - Otoshidama
+- [ ] ABC 049 C - Daydream
+- [ ] ABC 086 C - Traveling
+- [ ] ABC 075 B
+- [ ] ABC 096 C
+- [ ] ABC 070 B
+- [ ] ABC 055 B
+- [ ] ABC 046 B
+- [ ] ABC 048 B
+- [ ] ABC 060 B
+- [ ] ABC 065 B
+- [ ] ABC 087 C
+- [ ] ABC 098 C 
+- [ ] ABC 079 C
 
-#### コンテスト用のディレクトリを作る
-提出コードはmain.rbに作る
-
-#### 事前テスト
-`# pwd => __/atcoder/abc101/a の場合`\
-`$ oj t -c " ruby main.rb" -d tests`
-
-#### 提出
-`# 方法１`\
-`# pwd => __/atcoder/abc101/`\
-`$ acc submit -t abc101_a ./a/main.rb`
-
-`# 方法２`\
-`# pwd => __/atcoder/abc101/a`\
-`$ acc submit main.rb`
-
-`# 方法３( 方法２の省略 )`\
-`$ acc s`
+### [AtCoder 版！蟻本 (初級編)](https://qiita.com/drken/items/e77685614f3c6bf86f44)
