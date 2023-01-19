@@ -4,13 +4,13 @@ https://github.com/rtakasawa/at_code/blob/master/set_up_ruby.md
 ## 問題
 ### [AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067)
 - [ ] ABC 086 A - Product
-- [ ] ABC 081 A - Placing Marbles
-- [ ] ABC 081 B - Shift Only
-- [ ] ABC 087 B - Coins
-- [ ] ABC 083 B - Some Sums
-- [ ] ABC 088 B - Card Game for Two
-- [ ] ABC 085 B - Kagami Mochi
-- [ ] ABC 085 C - Otoshidama
+- [x] ABC 081 A - Placing Marbles
+- [x] ABC 081 B - Shift Only
+- [x] ABC 087 B - Coins
+- [x] ABC 083 B - Some Sums
+- [x] ABC 088 B - Card Game for Two
+- [x] ABC 085 B - Kagami Mochi
+- [x] ABC 085 C - Otoshidama
 - [ ] ABC 049 C - Daydream
 - [ ] ABC 086 C - Traveling
 - [ ] ABC 075 B
