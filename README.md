@@ -11,7 +11,7 @@ https://github.com/rtakasawa/at_code/blob/master/set_up_ruby.md
 - [x] ABC 088 B - Card Game for Two
 - [x] ABC 085 B - Kagami Mochi
 - [x] ABC 085 C - Otoshidama
-- [ ] ABC 049 C - Daydream
+- [x] ABC 049 C - Daydream
 - [ ] ABC 086 C - Traveling
 - [ ] ABC 075 B
 - [ ] ABC 096 C
