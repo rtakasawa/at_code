@@ -12,7 +12,7 @@ https://github.com/rtakasawa/at_code/blob/master/set_up_ruby.md
 - [x] ABC 085 B - Kagami Mochi
 - [x] ABC 085 C - Otoshidama
 - [x] ABC 049 C - Daydream
-- [ ] ABC 086 C - Traveling
+- [x] ABC 086 C - Traveling
 - [ ] ABC 075 B
 - [ ] ABC 096 C
 - [ ] ABC 070 B
