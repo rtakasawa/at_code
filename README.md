@@ -14,7 +14,7 @@ https://github.com/rtakasawa/at_code/blob/master/set_up_ruby.md
 - [x] ABC 049 C - Daydream
 - [x] ABC 086 C - Traveling
 - [x] ABC 075 B
-- [ ] ABC 096 C
+- [x] ABC 096 C
 - [ ] ABC 070 B
 - [ ] ABC 055 B
 - [ ] ABC 046 B
