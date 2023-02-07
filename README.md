@@ -19,7 +19,7 @@ https://github.com/rtakasawa/at_code/blob/master/set_up_ruby.md
 - [x] ABC 055 B
 - [ ] ABC 046 B
 - [ ] ABC 048 B
-- [ ] ABC 060 B
+- [x] ABC 060 B
 - [ ] ABC 065 B
 - [ ] ABC 087 C
 - [ ] ABC 098 C 

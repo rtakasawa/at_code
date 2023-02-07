@@ -1,1 +1,0 @@
-input = gets.chomp.split("")
