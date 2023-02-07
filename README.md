@@ -16,7 +16,7 @@ https://github.com/rtakasawa/at_code/blob/master/set_up_ruby.md
 - [x] ABC 075 B
 - [x] ABC 096 C
 - [x] ABC 070 B
-- [ ] ABC 055 B
+- [x] ABC 055 B
 - [ ] ABC 046 B
 - [ ] ABC 048 B
 - [ ] ABC 060 B
